@@ -53,7 +53,7 @@ public Laptop (String type,String serialNumber,String modelNumber,String brand,S
       al.add(serialNumber+"\n"+modelNumber+"\n"+brand+"\n"+processor+"\n"+assignedDate+"\n"+dueDate);
       System.out.println("----------------*-----------------");
       System.out.println("Laptop assigned to employee..");
-      System.out.println("----------------*-----------------");
+      System.out.println("----------------*-----------------"); 
       asset.addAssetToAssetPool(al);
     }  
    
