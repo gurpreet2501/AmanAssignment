@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=type\ serialNumber\ modelNumber\ brand\ processor\ assignedStatus
+comment1.target=Laptop(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=This\ is\ the\ constructor\ for\ the\ Laptop\ class\ and\ its\ further\ calling\ the\ constructor\ of\ its\ super\ Asset\ class.\ It\ also\ initializes\ the\ cpu\ attribute.
+numComments=2

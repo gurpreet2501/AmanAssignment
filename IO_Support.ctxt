@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=IO_Support
+comment0.text=\r\n\ This\ class\ is\ a\ support\ class\ which\ defines\ methods\ to\ read\ and\ write\ different\ forms\ of\ program\ input.\r\n\ \r\n\ @author\ Amanpreet\ Singh\r\n\ @version\ 1.0\r\n
+comment1.params=prompt
+comment1.target=java.lang.String\ getString(java.lang.String)
+comment1.text=\ getString(String\ prompt)\ prompts\ the\ user\ for\ an\ input,\ \r\n\ reads\ it\ as\ a\ String\ object\ and\ returns\ it.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ String\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+comment2.params=prompt
+comment2.target=java.lang.Double\ getDouble(java.lang.String)
+comment2.text=\ getDouble(String\ prompt)\ prompts\ the\ user\ for\ an\ input\ \r\n\ and\ parses\ the\ input\ to\ Double\ object.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ Double\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+comment3.params=prompt
+comment3.target=java.lang.Integer\ getInteger(java.lang.String)
+comment3.text=\ getInteger(String\ prompt)\ prompts\ the\ user\ for\ an\ input\ \r\n\ and\ parses\ the\ input\ to\ an\ Integer\ object.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ Integer\ An\ object\ which\ holds\ the\ user\ input\r\n
+comment4.params=toPrint
+comment4.target=void\ println(java.lang.String)
+comment4.text=\ println(String\ toPrint)\ prints\ the\ argument\ passed\ to\ the\ method.\ \r\n\ \r\n\ @param\ \ \ toPrint\ A\ String\ that\ should\ be\ printed\ to\ the\ stdout\r\n
+comment5.params=
+comment5.target=java.lang.Integer\ getInteger()
+comment5.text=\ getInteger()\ promts\ the\ user\ for\ an\ integer\ input\ and\ \r\n\ parses\ the\ input\ to\ an\ Integer\ object.\r\n\ \r\n\ @return\ Integer\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+comment6.params=fileName\ data
+comment6.target=void\ saveData(java.lang.String,\ java.util.ArrayList)
+comment6.text=\ saveData(String\ fileName,\ ArrayList<String>\ data)\ writes\ the\ list\ of\ Strings\ in\ data\ ArrayList\ \r\n\ to\ the\ file\ specified.\r\n\ \r\n\ @param\ \ \ fileName\ \ The\ file\ name(may\ include\ tha\ path)\ to\ which\ data\ is\ written\r\n\ @param\ \ \ data\ \ An\ array\ list\ of\ Strings\ which\ consists\ of\ object\ data\ to\ be\ saved\r\n\ \r\n
+comment7.params=fileName
+comment7.target=java.util.ArrayList\ readData(java.lang.String)
+comment7.text=\ readData(String\ fileName)\ reads\ object\ data\ from\ the\ file\ specified\ to\ an\ ArrayList\ of\ Strings.\r\n\ \r\n\ @param\ \ \ fileName\ \ The\ file\ name(may\ include\ tha\ path)\ from\ which\ object\ data\ is\ read\r\n\ @return\ \ ArrayList<String>\ \ An\ array\ list\ of\ Strings\ which\ consists\ of\ object\ data\ that\ is\ read\ from\ the\ file\r\n\ \r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Phone
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Phone\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=type\ serialNumber\ modelNumber\ brand\ display\ dimension\ assignedStatus
+comment1.target=Phone(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=This\ is\ the\ constructor\ for\ the\ Laptop\ class\ and\ its\ further\ calling\ the\ constructor\ of\ its\ super\ Asset\ class.\ It\ also\ initializes\ the\ cpu\ attribute.
+numComments=2
